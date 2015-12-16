@@ -44,6 +44,3 @@ Boilerplate de meteor para un cms.
 ```shell
 meteor --settings settings.js
 
-### Port
-```shell
-meteor --port 1234
