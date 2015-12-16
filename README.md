@@ -33,6 +33,3 @@ Boilerplate de meteor para un cms.
 * aldeed:autoform-bs-datetimepicker              (date/time picker)
 * tsega:bootstrap3-datetimepicker@=3.1.3_3       (bootstrap date/time picker)
 * yogiben:autoform-modals                        (Popup con las formas de modelos)
-
-
-
