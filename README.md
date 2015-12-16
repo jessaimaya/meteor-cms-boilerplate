@@ -39,9 +39,11 @@ Boilerplate de meteor para un cms.
 * yogiben:admin (fix admin delete option)
 
 ## Run
+
 ### Load cloudinary settings:
 ```shell
 meteor --settings settings.js
+
 ### Port
 ```shell
 meteor --port 1234
