@@ -1,0 +1,26 @@
+/* CSS declarations go here */
+.login-card{
+    float:none;
+    margin: 2em auto;
+}
+.login-buttons{
+    font-size: 2em;
+    font-weight: bold;
+}
+.card-title{
+    font-weight:bold;
+    text-align: center;
+}
+.login-link-text{
+    color:#fff;
+}
+.center{
+    text-align: center;
+}
+.accounts-dialog{
+    width:350px;
+     box-sizing: border-box;
+}
+#login-buttons input[type="email"], #login-buttons input[type="password"]{
+    width:50%;
+}

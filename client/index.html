@@ -1,0 +1,59 @@
+<head>
+  <title>Meteor CMS</title>
+</head>
+
+<body>
+  
+</body>
+
+<template name="login">
+    <div class="container">
+             <div class="col s12 m6 login-card">
+                 <div class="card blue-grey darken-1 center">
+                     <div class="card-content white-text">
+                         <div class="center">
+                             <h1>Login</h1>
+                             <form id="login-form" action="action">
+                                 <div>
+                                     <input type="email" id="login-email" />
+                                     <input type="password" id="login-password" />
+                                     <input type="submit" id="login-button" value="Sign in" />
+                                 </div>
+                             </form> 
+                              
+                         </div>
+                     </div>
+                 </div>
+             </div>
+    </div>
+</template>
+
+
+<template name="registro">
+    <div class="container">
+        <div class="col s12 m6 login-card">
+            <div class="card blue-grey darken-1 center">
+                <div class="card-content white-text">
+                    <div class="center">
+                        <h1>Registro</h1>
+                        <form class="register">
+                            <p>Email: <input type="email" name="email"></p>
+                            <p>Password: <input type="password" name="password"></p>
+                            <p><input type="submit" value="Registrar"></p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+
+<template name="index">
+    <div class="container">
+        <h1>{{ hello }}</h1>
+    </div>
+</template>
+
+
+
