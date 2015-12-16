@@ -33,6 +33,15 @@ Boilerplate de meteor para un cms.
 * aldeed:autoform-bs-datetimepicker              (date/time picker)
 * tsega:bootstrap3-datetimepicker@=3.1.3_3       (bootstrap date/time picker)
 * yogiben:autoform-modals                        (Popup con las formas de modelos)
+* cosio55:autoform-cloudinary                    (cloudinary field autoform)
 
 ## Extras
 * yogiben:admin (fix admin delete option)
+
+## Run
+### Load cloudinary settings:
+```shell
+meteor --settings settings.js
+### Port
+```shell
+meteor --port 1234
