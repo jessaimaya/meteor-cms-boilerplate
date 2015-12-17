@@ -34,6 +34,9 @@ Boilerplate de meteor para un cms.
 * tsega:bootstrap3-datetimepicker@=3.1.3_3       (bootstrap date/time picker)
 * yogiben:autoform-modals                        (Popup con las formas de modelos)
 * cosio55:autoform-cloudinary                    (cloudinary field autoform)
+* cfs:standard-packages                          (File manager)
+* cfs:filesystem                                 (Para guardar en carpetas)
+* cfs:gridfs                                     (Mongo gridFS)
 
 ## Extras
 * yogiben:admin (fix admin delete option)
